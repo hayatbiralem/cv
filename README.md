@@ -1,2 +1,1 @@
-# cv
-My CV.
+![CV of Ömür Yanıkoğlu](cv.png)
