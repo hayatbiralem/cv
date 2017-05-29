@@ -1,1 +1,1 @@
-![CV of Ömür Yanıkoğlu](cv.png?20160807)
+![CV of Ömür Yanıkoğlu](cv.png?20170529)
