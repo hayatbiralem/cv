@@ -425,6 +425,9 @@ a {
  * Create multi-line, DocBlock style comments.
  */
 .comment-block {
+    margin-bottom: 24px;
+    margin-bottom: 1.5rem;
+
     color: $color--comment;
 
     &:before,
